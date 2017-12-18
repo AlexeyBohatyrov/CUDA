@@ -1,0 +1,33 @@
+.skills{
+	background-color: #fff;
+}
+.skills-color{
+	color: #3c4761;
+}
+.caption-skills{
+	color: #3c4761;
+}
+.border-procent{
+	border:12px solid #dfe8ed;
+	height:158px;
+	width: 158px;
+	border-radius: 50%;
+	margin:0 auto;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color-70%: green;
+
+}
+.procent{	
+	font-size: 35px;
+}
+.advantages-procent{
+	margin-top: 30px;
+	margin-bottom: 123px;
+	text-transform: uppercase;
+	font-size: 24px;
+	color: #3c4761;
+	text-align: center;
+	font-weight: 700;
+}

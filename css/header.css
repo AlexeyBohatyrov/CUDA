@@ -1,0 +1,41 @@
+.header{
+	background-color: #8f489a;
+}
+.logo{
+	margin-top: 50px;
+	margin-left: 40px;
+	float: left;
+}
+.nav-top {
+	float: right;
+}
+.nav-top ul{
+	display: flex;
+	margin-top:60px;
+	margin-right: 4px;
+}
+.nav-top a{
+ 	margin-left: 32px;
+ 	text-transform:uppercase;
+ 	color: #f7f3ea;
+ 	padding:5px 10px;
+ 	border-radius:4px;
+}
+.nav-top a:hover{
+	background-color: #643a79;
+}
+.btn-caption{
+	text-transform:uppercase;
+	font-size: 18px;
+	font-weight: 500;
+	color: #f7f3ea; 
+	background-color:#eb7d4b;
+	border-radius: 6px;
+	padding: 20px 80px 20px 80px;
+	line-height: 30px;
+	border:none;
+	display:block;
+	margin: auto;
+	margin-bottom:145px;
+
+}

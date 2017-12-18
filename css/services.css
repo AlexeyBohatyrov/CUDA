@@ -1,0 +1,47 @@
+.services{
+	background-color: #17c2a4;
+}
+.caption{
+	padding-top: 100px;
+	text-align:center;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 40px;
+}
+.caption-services{
+	color: #fff;
+}
+.caption-advantages{
+	margin-top: 45px;
+	text-align: center;		
+}
+.services-color{
+	color: #fff;
+}
+.list{
+	display: flex;
+	justify-content: space-around;
+	margin-top:80px;
+}
+.list-services{
+	padding-bottom: 130px;
+}
+.figcaption{
+	text-transform:uppercase;
+	font-size:24px;
+	font-weight:700;
+	line-height:18px;
+}
+.services-figcaption{
+	color: #fff;
+	margin:50px 0 20px 0;
+}
+.services-figcaption-advantages{
+	color: #fff;
+}
+.list-center{
+	text-align: center;
+}
+.ceo{
+	text-transform: uppercase;
+}
